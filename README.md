@@ -8,9 +8,9 @@ Short description:
 The application has two types of users: Real estate administrator and agent. The administrator has the permission to delete / edit the real estate agents' accounts. Realtors can add / delete / edit the properties they post. Also, the properties can be added to the favorites list.
 
 Properties can be searched by contract type(for selling or rent), property type(apartment or house) or by location
+The UI is far away to be finished, just the functionality was tested
 
-Db-Schema :
-
+Db-Schema
 ![Platforma de imobiliare drawio](https://github.com/user-attachments/assets/2357f67c-3137-4d5d-94bf-cae6a9750c7e)
 
 Screens:
@@ -23,9 +23,6 @@ Login page
 
 ![anunturi](https://github.com/user-attachments/assets/0dcc9728-afd6-44d5-9908-608c294e87fd)
 Announcements
-
-![anunturile mele](https://github.com/user-attachments/assets/087e6792-dc94-4eda-8250-113340fb5f18)
-My announcements
 
 ![anunturile mele](https://github.com/user-attachments/assets/3b177519-aa54-40ff-aeb6-ecb28d3faf7d)
 Announcements posted by a user
