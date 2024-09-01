@@ -7,7 +7,7 @@ Postman
 Short description:
 The application has two types of users: Real estate administrator and agent. The administrator has the permission to delete / edit the real estate agents' accounts. Realtors can add / delete / edit the properties they post. Also, the properties can be added to the favorites list.
 
-Properties can be searched by contract type(for selling or rent), property type(apartment or house) or by location
+Properties can be searched by contract type(for selling or rent), property type(apartment or house) or by location.
 The UI is far away to be finished, just the functionality was tested
 
 Db-Schema
